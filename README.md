@@ -13,6 +13,6 @@ Best practices for maintainers and admin personas for remediating supply chain a
     2. Alerts by time 
     3. Alerts by escalation 
     4. Workflows to enhance communications 
-           - [Slack](https://github.com/ProgramEquity/dependabot-overwhelm/blob/main/Slack_workflow.md)
-           - [Teams](https://github.com/marketplace/actions/notify-microsoft-teams)
+        - [Slack](https://github.com/ProgramEquity/dependabot-overwhelm/blob/main/Slack_workflow.md)
+        - [Teams](https://github.com/marketplace/actions/notify-microsoft-teams)
     5. Dependency graph with GitHub Actions
