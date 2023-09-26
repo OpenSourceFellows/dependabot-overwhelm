@@ -16,3 +16,4 @@ Best practices for maintainers and admin personas for remediating supply chain a
         - [Slack](https://github.com/ProgramEquity/dependabot-overwhelm/blob/main/Slack_workflow.md)
         - [Teams](https://github.com/marketplace/actions/notify-microsoft-teams)
     5. Dependency graph with GitHub Actions
+
